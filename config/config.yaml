@@ -97,8 +97,6 @@ platforms:
     name: "今日头条"
   - id: "baidu"
     name: "百度热搜"
-  - id: "thepaper"
-    name: "澎湃新闻"
   - id: "ifeng"
     name: "凤凰网"
   - id: "cankaoxiaoxi"
@@ -107,10 +105,8 @@ platforms:
     name: "卫星通讯社"
   - id: "zaobao"
     name: "联合早报"
-  - id: "mktnews"
-    name: "MKT新闻"
-  - id: "kaopu"
-    name: "靠谱新闻"
+
+
 
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
@@ -125,10 +121,6 @@ platforms:
     name: "格隆汇"
   - id: "xueqiu"
     name: "雪球"
-  - id: "jin10"
-    name: "金十数据"
-  - id: "fastbull"
-    name: "快讯通"
 
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
@@ -141,8 +133,6 @@ platforms:
     name: "贴吧"
   - id: "zhihu"
     name: "知乎"
-  - id: "hupu"
-    name: "虎扑"
 
   # === 科技类平台 ===
   - id: "ithome"
@@ -151,17 +141,6 @@ platforms:
     name: "掘金"
   - id: "github"
     name: "GitHub"
-  - id: "hackernews"
-    name: "Hacker News"
-  - id: "solidot"
-    name: "Solidot"
-  - id: "v2ex"
-    name: "V2EX"
-  - id: "nowcoder"
-    name: "牛客网"
-  - id: "pcbeta"
-    name: "远景论坛"
   - id: "sspai"
     name: "少数派"
-  - id: "producthunt"
-    name: "ProductHunt"
+
